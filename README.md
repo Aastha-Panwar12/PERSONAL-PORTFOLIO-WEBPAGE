@@ -32,3 +32,7 @@ Some portfolios provide downloadable PDFs or interactive resumes.
 
 ✅ Contact:
 Details like email address, phone number, social links, and sometimes a contact form for inquiries.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ea199c9a-a8e0-419f-834f-730b58707dcd)
